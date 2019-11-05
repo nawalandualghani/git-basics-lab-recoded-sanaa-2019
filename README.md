@@ -1,6 +1,7 @@
 # Git Basics Lab
 
 ## Learning Goals
+#hellow iam nawal
 
 - Understand how to complete labs on Learn
 - Apply what you've learned about Git version control
@@ -147,5 +148,3 @@ your personal GitHub account.
 [pr]: https://help.github.com/en/articles/about-pull-requests
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
-
-
